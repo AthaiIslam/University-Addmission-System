@@ -1,0 +1,2 @@
+[29-Mar-2019 04:16:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/thr11/rating.lumosbd.com/header.php:1) in /home4/thr11/rating.lumosbd.com/applynow.php on line 7
+[29-Mar-2019 04:17:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/thr11/rating.lumosbd.com/header.php:1) in /home4/thr11/rating.lumosbd.com/applynow.php on line 99
